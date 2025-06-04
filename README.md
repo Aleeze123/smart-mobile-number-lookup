@@ -2,7 +2,6 @@
 
 A sleek and educational **Streamlit** web app that lets users analyze mobile numbers for location, network provider, time zone, and number type — similar to **Truecaller-style insights**, but based only on public data using Python's `phonenumbers` library.
 
-![App Screenshot](https://via.placeholder.com/800x300.png?text=Smart+Mobile+Lookup+App+Preview)
 
 ---
 
