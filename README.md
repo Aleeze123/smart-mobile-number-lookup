@@ -18,10 +18,10 @@ A sleek and educational **Streamlit** web app that lets users analyze mobile num
 
 ## 🚀 Live Demo
 
-> You can deploy this app easily on **Streamlit Cloud** or **Render**.
+
 
 Try on Streamlit (once deployed):  
-[🔗 Live App](https://share.streamlit.io/your-username/smart-mobile-number-lookup)
+[🔗 Live App](https://smart-mobile-number-lookup.streamlit.app/)
 
 ---
 
